@@ -5,3 +5,6 @@ Machine learning is a growing technology which enables computers to learn automa
 1. Introduction
 2. History
 3. Classification
+4. Life Cycle
+5. Supervised Machine Learning
+6. Unsupervised Machine Learning
